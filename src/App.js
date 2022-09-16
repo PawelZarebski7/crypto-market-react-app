@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Routes, Router, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import axios from 'axios';
 import './App.css';
 import Coins from './components/Coins';
